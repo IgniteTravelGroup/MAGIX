@@ -1,0 +1,8 @@
+"data","LoadSingleTestData","IgniteHQTestData.LoginDetails","TestAldiConsultant","",""
+"1","sleep","","{LowWaitingTime}","",""
+"2","open","chrome","{IgniteTravelHQHomePage}","",""
+"3","adjustZoomLevel","","80","",""
+"4","callFunction","IgniteReusable.Login","","","Call the Login reusable block"
+"//5","waitForElementInvisible","xpath=//div[@class='local-spinner']","{VeryHighWaitingTime}","",""
+"","","","","",""
+"","","","","",""
